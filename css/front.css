@@ -571,9 +571,10 @@ a{
   font-size: 17px;
   font-weight: 100;
   }
+}
 
 
-@media (max-width: 534px)
+@media (max-width: 540px)
 {
   nav .navLink{
     display: none;
@@ -614,10 +615,60 @@ a{
 
 @media(max-width: 440px)
 {
+  .social-box{
 
+    width: 10;
+    height: 40;
+    padding: 5px;
+    transform: scale(.95);
+  }
+
+  .social-logo{
+    padding: 0px;
+    margin-top: 14px;
+    transform: scale(.73);
+  }
+
+  .social-link
+  {
+  margin-top: 14px;
+  font-size: 13px;
+  }
+
+  .social-caption
+  {
+  margin-top: 2px;
+  font-size: 11.5px;
+  }
 
   .ghost-btn{
     transform: scale(.75);
+  }  
+
+  .social-box{
+
+    width: 75;
+    height: 115;
+    padding: 45px;
+    transform: scale(.92);
+  }
+
+  .social-logo{
+    padding: 0px;
+    margin-top: 15px;
+    transform: scale(.75);
+  }
+
+  .social-link
+  {
+  margin-top: 15px;
+  font-size: 14px;
+  }
+
+  .social-caption
+  {
+  margin-top: 2px;
+  font-size: 12px;
   }
 
   .calendar-container
@@ -646,6 +697,10 @@ a{
     font-size: 22px;
   }
   
+}
+
+@media (max-width: 380px){
+
 }
 
 
