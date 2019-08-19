@@ -571,7 +571,7 @@ a{
   font-size: 17px;
   font-weight: 100;
   }
-}
+  
 
 
 @media (max-width: 540px)
@@ -615,31 +615,6 @@ a{
 
 @media(max-width: 440px)
 {
-  .social-box{
-
-    width: 10;
-    height: 40;
-    padding: 5px;
-    transform: scale(.95);
-  }
-
-  .social-logo{
-    padding: 0px;
-    margin-top: 14px;
-    transform: scale(.73);
-  }
-
-  .social-link
-  {
-  margin-top: 14px;
-  font-size: 13px;
-  }
-
-  .social-caption
-  {
-  margin-top: 2px;
-  font-size: 11.5px;
-  }
 
   .ghost-btn{
     transform: scale(.75);
@@ -699,7 +674,34 @@ a{
   
 }
 
-@media (max-width: 380px){
+@media (max-width: 379px){
+
+  .social-box{
+
+    width: 75px;
+    height: 105px;
+    padding: 45px;
+    transform: scale(.96);
+    margin: 0;
+  }
+
+  .social-logo{
+    padding: 0px;
+    margin-top: 15px;
+    transform: scale(.67);
+  }
+
+  .social-link
+  {
+  margin-top: 5px;
+  font-size: 14px;
+  }
+
+  .social-caption
+  {
+  margin-top: 2px;
+  font-size: 12px;
+  }
 
 }
 
