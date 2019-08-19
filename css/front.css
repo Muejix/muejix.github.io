@@ -224,9 +224,11 @@ a{
 }
 
 .calendar-container {
-  margin: 25px 25%;
+  /* margin: 25px 25%; */
+  margin: auto;
   /* width: 75%; */
-  height: 85%;
+  /* height: 85%; */
+  max-width: 800px;
 }
 
 
