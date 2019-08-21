@@ -10,4 +10,4 @@ Website: https://ShockerGaming.net
   - Need executive pictures for the about me section
   - Fix Safari compatibility
   - Fix Join button self adjusting with phones that mess with vertical screen size
-  - Set Globals for links in yaml file
+  - Set Globals for web links in yaml file
