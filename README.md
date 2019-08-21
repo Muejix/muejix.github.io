@@ -6,8 +6,8 @@ Website: https://ShockerGaming.net
 
 # ToDo:
   - favicon.icon
-  - gallery
-  - Need executive pictures for the about me section
+  - Complete gallery section (Perhaps use thirdparty website to host club images for maximum storage size)
+  - Need executive pictures for the "About Me" section
   - Fix Safari compatibility
   - Fix Join button self adjusting with phones that mess with vertical screen size
   - Set Globals for web links in yaml file
